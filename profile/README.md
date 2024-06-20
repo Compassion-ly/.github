@@ -1,7 +1,3 @@
-Here is the GitHub organization profile README.md for your mobile application "ComPassion.ly" based on the provided formats:
-
----
-
 ## Welcome to ComPassion.ly Page 👋
 
 ### Introducing ComPassion.ly!
