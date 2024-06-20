@@ -44,7 +44,7 @@ You can describe yourself in just 3 minutes, and within 3 seconds, our app will 
 
 Dataset Links for This Project:
 
-[Dataset (Google Drive)](https://github.com/Compassion-ly/compassionly_ml/tree/master/dataset)
+[Dataset](https://github.com/Compassion-ly/compassionly_ml/tree/master/dataset)
 
 ## UI/UX Design
 
